@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+
+<dict>
+  <key>Cu</key>
+  <string>铜</string>
+  <key>Fe</key>
+  <string>铁</string>  
+  <key>Ag</key>
+  <string>银</string>
+  <key>Au</key>
+  <string>金</string>
+  <key>CuDescribe</key>
+  <string>铜</string>
+  <key>FeDescribe</key>
+  <string>铁</string>  
+  <key>AgDescribe</key>
+  <string>银</string>  
+  <key>AuDescribe</key>
+  <string>金</string>  
+</dict>
+</plist>
